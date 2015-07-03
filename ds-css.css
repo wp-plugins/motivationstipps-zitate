@@ -1,0 +1,15 @@
+/* CSS Document */
+
+.ds-copy{
+	font-size: 0.7em;
+	float: right;
+	}
+
+.ds-autor{
+	font-weight: bold;
+	}
+
+.ds-shortcode{
+	display: inline;
+	float: none;
+	}
